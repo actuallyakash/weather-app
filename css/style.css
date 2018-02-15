@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+.temp
+{
+	margin:20px;
+	font-size:35px;
+	font-family:Agency FB;
+}
+.cf
+{
+	opacity:0.5;
+}
+.cf:hover
+{
+	opacity:1.0;
+}
+.made
+{
+	font-size:44px;
+	font-family:Agency FB;
+}
+.made a
+{	
+	text-decoration:none;
+	font-weight:bold;
+	font-family:Chiller;
+}
+.city
+{
+	margin:20px;
+	font-size:39px;
+	font-family:Dosis;
+}
+.weat
+{
+	margin:20px;
+	font-size:35px;
+	font-family:Dosis;
+	font-weight:bold;
+}
+.tit
+{
+	border:2px solid black;
+}
+.apppic
+{
+	width:100px;
+	height:90px;
+	position:absolute;
+	top:20px;
+	left:58%;
+}
+.appname
+{
+	font-size:33px;
+	margin:20px auto;
+	text-align:center;
+	font-family:Viner Hand ITC;
+	color:lightgrey;
+}
+.tagline
+{
+	position:relative;
+	text-align:center;
+	font-family:Bradley Hand ITC;
+}
+body
+{
+  background-color:black;
+  color:white;
+}
+.message
+{
+	color:red;
+}
